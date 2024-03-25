@@ -1,0 +1,100 @@
+body {
+    display: block;
+  }
+  h1 {
+    font-size: 60px;
+  }
+  #judul {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(139, 23, 0);
+    margin: 0;
+    font-size: 10pt;
+    background-color: black;
+    text-align: center;
+  }
+  
+  table {
+    display: flexbox;
+  }
+  
+  #jdl {
+    text-align: center;
+  }
+  
+  #member {
+    width: 100px;
+    display: inline-block;
+  }
+  
+  #mposisi {
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: center;
+    display: inline-block;
+    cursor: pointe;
+  }
+  #mtgl {
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+  }
+  #msub {
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+  }
+  #mnama {
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+  }
+  
+  #mclass {
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+  }
+  
+  .left-div {
+    width: 100px;
+    display: inline-block;
+  }
+  
+  .right-div {
+    display: inline-block;
+  }
+  .satu {
+    float: left;
+  }
+  
+  .table-container {
+    display: flex;
+  }
+  .table-container table {
+    border-collapse: collapse;
+    margin-right: 20px; /* Jarak antara kedua tabel */
+  }
+  /* CSS untuk memberikan garis tepi tabel */
+  table,
+  th,
+  td {
+    border: 1px solid black;
+    padding: 8px;
+  }
+  
+  image {
+    margin: auto;
+  }
